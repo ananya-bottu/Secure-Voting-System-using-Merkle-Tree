@@ -1,4 +1,4 @@
-# Secure Voting System using Merkle Tree
+# VoteChain
 
 This project implements a Secure Voting System using a Merkle Tree data structure in Java. It provides functionalities to cast votes, verify individual votes, and ensure the integrity of the entire election process.
 
